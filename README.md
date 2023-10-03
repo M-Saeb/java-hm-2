@@ -1,14 +1,19 @@
 # Hometask2
 
-1. Create class Car: id, Make, Model, Year of manufacture, Color, Price, Registration number. Create an array of objects. Save to the different files:
+**matriculation number:** 7218958
+
+## Homework description
+1. Create class `Car` with the following attributes: `id`, `make`, `model`, `manufactureYear`, `color`, `price`, `registrationNumber`.
+
+2. Create an array of `Car`.
+
+3. Create a file that return each of the following:
 
     a) a list of cars of a given brand;
 
     b) a list of cars of a given model that have been in use for more than n years;
 
     c) a list of cars of a given year of manufacture, the price of which is higher than the specified one.
-
-2. Please provide link to your GitHub with the solution. Additionally, to the solution it should contain readme with you matriculation number, solution project short description with indication of the development environment
 
 # Solution
 - Developed on windows
@@ -19,4 +24,4 @@
     java PointA.java
     # or PointB.java or PointC.java
     ```
-- The code in the `main()` function for each of the 3 files is only to demonstrate the `search()` function for each solution
+- The code in the `main()` function inside each of the 3 files is only to demonstrate the `search()` function for each solution
